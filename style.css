@@ -1,0 +1,10 @@
+/*background color for header tag*/
+header{
+    background-color: green;
+    padding:20px;
+    color:white;
+}
+/*use of media query*/
+@media screen and (max-width:450px){
+    header{ background-color: blue;}
+}
